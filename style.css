@@ -1,0 +1,175 @@
+.menu{
+ display:flex;
+ flex-direction:column;
+ position:absolute;
+ left: 15px;
+ top:30px;
+ gap: 4px;
+ padding:0;
+ margin: 0px;
+
+}
+.you {
+display:absolute;
+margin: 10px 0 0 40px;
+}
+
+.rec1 {
+    display: inline;
+    justify-content: center;
+    margin: 0 0 0 400px;
+ }
+ .rec2 {
+    display: inline;
+    justify-content: center;
+    margin: 0 0 0 0px;
+ }
+ 
+ iframe {
+    display: inline;
+    justify-content: left;
+    align-items: top;
+    margin: 0 0 500px 20vw;
+
+   
+}
+ .sidebar {
+  display: inline;
+  justify-content: right; 
+  margin: 0px 0px 0px 10vw;
+ 
+
+ }
+
+ .lupa {
+    position: absolute;
+    left:910px;
+    top: 15px;
+ }
+
+/*.film {
+display:flex;
+flex-direction: row;
+position: absolute;
+left:800px
+
+}*/
+
+
+
+
+.avatar {
+    display:flex;
+    flex-direction: row;
+    position: absolute;
+    left:1400px;
+    top:15px;
+    
+    }
+    .inicio{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:100px;
+        left:50px;
+    }
+
+    .exp{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:140px;
+        left:50px;
+    }
+    .ins{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:180px;
+        left:50px;
+    }
+    .mus{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:220px;
+        left:50px;
+    }
+    .vids{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:260px;
+        left:50px;
+
+
+    }
+    .mais{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:300px;
+        left:50px;
+    }
+    .down{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:340px;
+        left:50px;
+    }
+    .films{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:380px;
+        left:50px;
+    }
+    .aprender{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:420px;
+        left:50px;
+    }
+    .esp{
+        display: flex;
+        position:absolute;
+        flex-direction:column;
+        top:460px;
+        left:50px;
+    }
+#grade {
+display:flex;
+flex-direction:row;
+position:absolute;
+left:300px;
+top:100px;
+gap:10px;
+padding: 10px;
+margin:2px;
+
+}
+
+#grade1 {
+    display:flex;
+    flex-direction:row;
+    position:absolute;
+    left:300px;
+    top:400px;
+    gap:10px;
+    padding: 10px;
+    margin:2px;
+    
+    }
+    #grade2 {
+        display:flex;
+        flex-direction:row;
+        position:absolute;
+        left:300px;
+        top:700px;
+        gap:10px;
+        padding: 10px;
+        margin:2px;
+        
+        }
